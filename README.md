@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👋
 
 - 📚 I’m currently learning Java and Go
 - 👯 I’m looking to collaborate on various projects
